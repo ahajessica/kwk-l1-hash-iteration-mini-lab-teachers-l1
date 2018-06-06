@@ -18,7 +18,7 @@ celeb_crush={} #empty hash
 
 celeb_crush["Emi"] = "Grant Gustin"
 
-puts celeb_crush #(this prints both key and value pair)
+# puts celeb_crush #(this prints both key and value pair)
 
 
 class_celeb_crushes = {
