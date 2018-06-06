@@ -37,6 +37,9 @@
 
 puts "3" + 3.0.to_str
 
-# .
+# .to_f - Float
+# .to_i - Fixnum or Integer
+# .to_s - Symbol
+# .to_str - String
 
 
