@@ -29,7 +29,7 @@ class_celeb_crushes = {
 puts class_celeb_crushes
 
 puts class_celeb_crushes.values
-
+puts class_celeb_crushes.key
 
 
 
