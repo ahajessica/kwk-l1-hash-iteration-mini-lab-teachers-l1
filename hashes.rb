@@ -15,7 +15,6 @@
 # puts friends_characters
 
 celeb_crush={} #empty hash 
-
 celeb_crush["Emi"] = "Grant Gustin"
 
 # puts celeb_crush #(this prints both key and value pair)
@@ -29,7 +28,7 @@ class_celeb_crushes = {
 
 puts class_celeb_crushes
 
-
+puts class_celeb_crushes.values
 
 
 
