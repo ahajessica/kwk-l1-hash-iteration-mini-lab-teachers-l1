@@ -21,8 +21,13 @@ celeb_crush["Emi"] = "Grant Gustin"
 puts celeb_crush #(this prints both key and value pair)
 
 
+class_celeb_crushes = {
+  "Natalia" => "Timothee Chalemet",
+  "Maya" =>  "Michael B. Jordan",
+  "Amira" => "Cole Sprouse",  
+}
 
-
+puts class_celeb_crushes
 
 
 
