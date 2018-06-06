@@ -35,6 +35,6 @@
 # puts "#{names} crush is #{crushes}" 
 # end
 
-3 + 3.0
+puts 3 + 3.0
 
 
